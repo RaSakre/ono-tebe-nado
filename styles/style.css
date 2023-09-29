@@ -19,7 +19,7 @@
   list-style: circle;
   min-width: 149px;
 }
-.header__links-list-item:last-child{
+.header__links-list-item:last-child {
 	min-width: 109px;
 }
 .header__links-list-item-no-bullit {
@@ -45,7 +45,7 @@
   width: 148px;
   height: 105px;
 }
-.address{
+.address {
 	color: #000;
   font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 400;
@@ -97,7 +97,7 @@
 	letter-spacing: 30px;
   text-align: left;
 }
-.aligned__text_left{
+.aligned__text_left {
 	line-height: 115%;
 }
 .aligned__text_center {
@@ -181,7 +181,7 @@
 	width: 100%;
 	text-decoration: none;
 }
-.card{
+.card {
 	position: relative;
   display: flex;
   flex-direction: column;
@@ -273,7 +273,7 @@
 	gap: 25px;
 }
 
-.about-text__style{
+.about-text__style {
 	color: #000;
   font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 400;
@@ -334,6 +334,6 @@
   display: inline-block;
 }
 
-.footer__socials-icon{
+.footer__socials-icon {
 	height: 48px;
 }
